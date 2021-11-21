@@ -46,12 +46,11 @@ en la tabla 2.1.
 
 ![image](https://user-images.githubusercontent.com/93734334/142776133-f44936ec-7cbe-4473-960f-193a35e34ceb.png)
 
-1.5.5. Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
+2.5.4. Compare los valores de la tabla 2.1 y realice sus conclusiones.
+
+
 
 * Como se observa en la tabla de los valores calculados y los valores medidos solo dos valores difieren, por lo que realizando los calculos para hallar el error porcentual el cual se calcula mediante la formula |Exact-approx|/(Exact)x100, se tiene que en estos dos valores existe errores de 0.5% y 0.3% demostrando que casi no existe error.
-
-¿Se cumplio la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes?                                                                                                 
-Si se cumplio puesto que cuample con la ley de Kirchoff la cual menciona que la suma de todos lo voltajes en cada malla o en cada trayectoria es igual a cero, de igual manera para los nodos menciona que las suma de todas las corrientes que pasan por el nodo es igual a 0. 
 
 5. VIDEO
 
