@@ -23,7 +23,7 @@ Objetivos Específicos:
 
 En el siguiente circuito mixto lo primero que se va a hacer es identificar las corrientes que pasan por cada una de las tres mallas.
 
-![image](https://user-images.githubusercontent.com/93734334/141704021-c083d22c-f90e-49cd-92df-2693c4069348.png)
+![image](https://user-images.githubusercontent.com/93734334/142775627-26ae29d7-4e81-42e2-b193-d185d8e6abbf.png)
 
 ![image](https://user-images.githubusercontent.com/93734334/141704675-603e78b5-6050-4566-bd57-8100b3c529dc.png)
 
