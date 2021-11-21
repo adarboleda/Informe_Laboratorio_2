@@ -29,9 +29,15 @@ A continuación se va a hacer los calculos utilizando la ley de voltajes de Kirc
 
 ![image](https://user-images.githubusercontent.com/93734334/142775797-8f1bf859-c848-4242-839c-495b87d69b4f.png)
 
-Despues de hallar la corriente uno y la corriente dos se va a encontrar los voltajes y las corrientes de cada resistencia.
+Se resuelve el sistema de ecuaciones reemplazando en una aplicacion web que resuelve estos problemas.
 
-![image](https://user-images.githubusercontent.com/93734334/141718716-8f1dbad8-6d1f-4246-959c-52b2621f8609.png)
+![image](https://user-images.githubusercontent.com/93734334/142775917-1fd34b74-804d-425e-98f7-857766a24d0a.png)
+
+![image](https://user-images.githubusercontent.com/93734334/142775921-014737ae-e94e-47ff-8000-330546d98387.png)
+
+Finalmente se tiene como resultado
+
+![image](https://user-images.githubusercontent.com/93734334/142775975-647354c6-fa61-4275-ae01-2e34e5a3356b.png)
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
