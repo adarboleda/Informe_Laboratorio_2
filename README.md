@@ -48,13 +48,12 @@ en la tabla 2.1.
 
 2.5.4. Compare los valores de la tabla 2.1 y realice sus conclusiones.
 
+![image](https://user-images.githubusercontent.com/93734334/142777730-a3dc8bb9-4bb5-483a-a3f5-94572f1ba356.png)
 
-
-* Como se observa en la tabla de los valores calculados y los valores medidos solo dos valores difieren, por lo que realizando los calculos para hallar el error porcentual el cual se calcula mediante la formula |Exact-approx|/(Exact)x100, se tiene que en estos dos valores existe errores de 0.5% y 0.3% demostrando que casi no existe error.
+* Como se observa en los valores de la tabla 2.1, los valores calculados y los valores medidos en el simulador no difieren, es decir son iguales por lo tanto no existe error, el primer valor de 11.45 lo que se hace es redondear a 11.5 y es igual al valor que proporciona el simulador. 
 
 5. VIDEO
 
-https://youtu.be/tUIPhdDPWoo
 
 6. CONCLUSIONES
 
