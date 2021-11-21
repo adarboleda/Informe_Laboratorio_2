@@ -19,9 +19,9 @@ Objetivos Específicos:
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-![image](https://user-images.githubusercontent.com/93734334/141704003-1368b355-e101-4230-a66b-8d2749de67cf.png)
+![image](https://user-images.githubusercontent.com/93734334/142775534-23f047db-b838-419f-a7d2-172bd56673a9.png)
 
-En el siguiente circuito mixto lo primero que se va a hacer es hallar la corriente uno y dos.
+En el siguiente circuito mixto lo primero que se va a hacer es identificar las corrientes que pasan por cada una de las tres mallas.
 
 ![image](https://user-images.githubusercontent.com/93734334/141704021-c083d22c-f90e-49cd-92df-2693c4069348.png)
 
