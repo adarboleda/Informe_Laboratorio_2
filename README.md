@@ -41,29 +41,10 @@ Finalmente se tiene como resultado
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-1.5.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.
+2.5.3. Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados
+en la tabla 2.1.
 
-* Medida del voltaje
-
-![image](https://user-images.githubusercontent.com/93734334/141788159-fd702dc0-f720-4cae-90a0-bf1534f81ca9.png)
-
-* Medida de la corriente
-
-![image](https://user-images.githubusercontent.com/93734334/141788235-192a0986-a907-4bec-869b-4c85a1f27f2d.png)
-
-Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
-
-![image](https://user-images.githubusercontent.com/93734334/141865450-d408ba3a-b147-409c-9019-f4f80bb1cb06.png)
-
-1.5.3. Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con
-signo negativo. Anote los resultados en la tabla 1.2.                                                                                                                             Tabla 1.2. Verificación de la LVK.
-
-![image](https://user-images.githubusercontent.com/93734334/141878957-2d706239-d22b-45b0-af1d-7a94978be26b.png)
-
-1.5.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen
-del nodo. Anote los resultados en la tabla 1.3.                                                                                                                                    Tabla 1.3. Verificación de la LCK.
-
-![image](https://user-images.githubusercontent.com/93734334/141876709-c87dd13d-f400-4ce9-8cf8-ace9abe55599.png)
+![image](https://user-images.githubusercontent.com/93734334/142776133-f44936ec-7cbe-4473-960f-193a35e34ceb.png)
 
 1.5.5. Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
 
