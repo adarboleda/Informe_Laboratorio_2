@@ -25,7 +25,9 @@ En el siguiente circuito mixto lo primero que se va a hacer es identificar las c
 
 ![image](https://user-images.githubusercontent.com/93734334/142775627-26ae29d7-4e81-42e2-b193-d185d8e6abbf.png)
 
-![image](https://user-images.githubusercontent.com/93734334/141704675-603e78b5-6050-4566-bd57-8100b3c529dc.png)
+A continuación se va a hacer los calculos utilizando la ley de voltajes de Kirchoff para hallar las tres corrientes.
+
+![image](https://user-images.githubusercontent.com/93734334/142775797-8f1bf859-c848-4242-839c-495b87d69b4f.png)
 
 Despues de hallar la corriente uno y la corriente dos se va a encontrar los voltajes y las corrientes de cada resistencia.
 
