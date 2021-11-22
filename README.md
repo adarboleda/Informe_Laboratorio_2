@@ -5,13 +5,8 @@
 
 Objetivo General:
 
-* Realizar una simulación de un circuito resistivo mixto y comparar los valores obtenidos de la simulación con el valor calculado y medido aplicando las leyes de Kirchhoff.
 
 Objetivos Específicos:
-
-* Explicar el concepto de la ley de Kirchhoff de Voltajes y la ley de Kirchhoff de corrientes.
-
-* Verificar los valores de la corriente y el voltaje que pasan por cada una de las resistencias con la ayuda de un amperímetro y un voltímetro.
 
 
 2. MARCO TEÓRICO 
@@ -56,11 +51,6 @@ en la tabla 2.1.
 
 
 6. CONCLUSIONES
-
-•	En resumidas palabras la ley de Kirchhoff de voltaje explica que la sumatoria de todas las caídas de voltaje de un circuito es igual a la cantidad que posee la fuente de voltaje que utiliza el circuito y la ley de Kirchhoff es similar que al sumar las corrientes de un circuito en paralelo debe dar igual a la corriente total del circuito.
-
-
-•	Los resultados de la simulación de un circuito con respecto a los resultados obtenidos de manera matemática son iguales, es decir se cumple la ley de Kirchhoff aplicada en los resultados matemáticos cabe recalcar que si existía un pequeño error pero en lo que respecta a los decimales debido a que se trabajo al realizar las operaciones con dos decimales y no con todos.
 
 
 7. BIBLIOGRAFÍA
