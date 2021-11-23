@@ -5,8 +5,13 @@
 
 Objetivo General:
 
+* Realizar una simulacion de un circuito y comprobar los resultados de análisis de mallas.
 
 Objetivos Específicos:
+
+* Explicar como funciona el método de la corriente de malla mediante la utilización de la LVK.
+
+* Comprobar los valores de voltaje obtenidos teóricamente en los métodos de análisis con datos experimentales.
 
 
 2. MARCO TEÓRICO 
@@ -51,6 +56,11 @@ en la tabla 2.1.
 
 
 6. CONCLUSIONES
+
+•	En resumidas palabras la ley de Kirchhoff de voltaje explica que la sumatoria de todas las caídas de voltaje de un circuito es igual a la cantidad que posee la fuente de voltaje que utiliza el circuito y la ley de Kirchhoff es similar que al sumar las corrientes de un circuito en paralelo debe dar igual a la corriente total del circuito.
+
+
+•	Los resultados de la simulación de un circuito con respecto a los resultados obtenidos de manera matemática son iguales, es decir se cumple la ley de Kirchhoff aplicada en los resultados matemáticos cabe recalcar que si existía un pequeño error pero en lo que respecta a los decimales debido a que se trabajo al realizar las operaciones con dos decimales y no con todos.
 
 
 7. BIBLIOGRAFÍA
