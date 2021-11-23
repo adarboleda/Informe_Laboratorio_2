@@ -11,7 +11,7 @@ Objetivos Específicos:
 
 * Explicar como funciona el método de la corriente de malla mediante la utilización de la LVK.
 
-* Comprobar los valores de las correintes obtenidas teóricamente en los métodos de análisis con datos experimentales.
+* Comprobar los valores de las corrientes obtenidas teóricamente en los métodos de análisis con datos experimentales.
 
 
 2. MARCO TEÓRICO 
@@ -57,10 +57,9 @@ en la tabla 2.1.
 
 6. CONCLUSIONES
 
-•	En resumidas palabras la ley de Kirchhoff de voltaje explica que la sumatoria de todas las caídas de voltaje de un circuito es igual a la cantidad que posee la fuente de voltaje que utiliza el circuito y la ley de Kirchhoff es similar que al sumar las corrientes de un circuito en paralelo debe dar igual a la corriente total del circuito.
+•	El método de la corriente de malla es el procedimiento de hallar las corrientes de cada malla que son espacios creados debido a una o más conexiones en paralelo donde para realizar el procedimiento se necesita conocer la ley de voltajes de Kirchhoff para poder realizar un sistema de ecuaciones debido a que cada malla constará de una sumatoria de voltajes y posterior se realizará el cambio de variable a la equivalencia del voltaje, V =  I * R para establecer ecuaciones en función de las corrientes que se necesiten hallar.
 
-
-•	Los resultados de la simulación de un circuito con respecto a los resultados obtenidos de manera matemática son iguales, es decir se cumple la ley de Kirchhoff aplicada en los resultados matemáticos cabe recalcar que si existía un pequeño error pero en lo que respecta a los decimales debido a que se trabajo al realizar las operaciones con dos decimales y no con todos.
+•	Las corrientes obtenidas a partir del método de corriente de mallas que utiliza y es referente a la ley de voltaje de Kirchhoff es igual a las corrientes medidas en un circuito simulado, entonces, el método de corrientes de mallas si es factible para medir la corriente. 
 
 
 7. BIBLIOGRAFÍA
