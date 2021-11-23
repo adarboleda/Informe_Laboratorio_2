@@ -16,6 +16,8 @@ Objetivos Específicos:
 
 2. MARCO TEÓRICO 
 
+![image](https://user-images.githubusercontent.com/93733175/143030189-a7c1e617-8e49-4ba6-8a65-2579daf05835.png)
+
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
@@ -65,7 +67,7 @@ https://youtu.be/qcyLs-nRXgY
 
 7. BIBLIOGRAFÍA
 
-Emplear normas APA para el informe e IEEE para el artículo
+Instituto Tecnológico de Tláhuac. (s.f.). Circuitos Eléctricos I. Recuperado el 23 de Noviembre de 2021, de Análisis de Mallas: https://sites.google.com/site/e91mediosdiitalesricardotrejo/home/1-6-analisis-de-mallas
 
 
 RUBRICA
