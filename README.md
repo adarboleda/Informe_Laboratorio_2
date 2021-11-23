@@ -11,7 +11,7 @@ Objetivos Específicos:
 
 * Explicar como funciona el método de la corriente de malla mediante la utilización de la LVK.
 
-* Comprobar los valores de voltaje obtenidos teóricamente en los métodos de análisis con datos experimentales.
+* Comprobar los valores de las correintes obtenidas teóricamente en los métodos de análisis con datos experimentales.
 
 
 2. MARCO TEÓRICO 
