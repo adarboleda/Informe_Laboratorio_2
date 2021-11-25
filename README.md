@@ -46,6 +46,8 @@ Finalmente se tiene como resultado
 2.5.3. Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados
 en la tabla 2.1.
 
+![image](https://user-images.githubusercontent.com/93734334/143484517-195ff616-2754-4774-8463-faaf064b6595.png)
+
 ![image](https://user-images.githubusercontent.com/93734334/142776133-f44936ec-7cbe-4473-960f-193a35e34ceb.png)
 
 2.5.4. Compare los valores de la tabla 2.1 y realice sus conclusiones.
