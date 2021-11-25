@@ -52,9 +52,9 @@ en la tabla 2.1.
 
 2.5.4. Compare los valores de la tabla 2.1 y realice sus conclusiones.
 
-![image](https://user-images.githubusercontent.com/93734334/142777730-a3dc8bb9-4bb5-483a-a3f5-94572f1ba356.png)
+![image](https://user-images.githubusercontent.com/93734334/143484766-96a0297b-cc0d-4674-8a66-066dc2e5a6a3.png)
 
-* Como se observa en los valores de la tabla 2.1, los valores calculados y los valores medidos en el simulador no difieren, es decir son iguales por lo tanto no existe error, el primer valor de 11.45 lo que se hace es redondear a 11.5 y es igual al valor que proporciona el simulador. 
+* Como se observa en los valores de la tabla 2.1, los valores calculados y los valores medidos en el simulador no difieren, es decir son iguales por lo tanto no existe error, el primer valor de 11.45 lo que se hace es redondear a 11.5 y es igual al valor que proporciona el simulador, de igual manera pasa con los otros valores dados con redondeo los valores son iguales. 
 
 5. VIDEO
 
